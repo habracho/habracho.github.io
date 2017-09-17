@@ -23,4 +23,3 @@ Aqui va la info de 3</p>
 Haller Bracho.</p>
 <hr>
 <p>asd</p>
-<p>.</p>
