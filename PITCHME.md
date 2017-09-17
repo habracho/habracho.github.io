@@ -1,7 +1,8 @@
+<hr>
 <h1 id="slide-1">Slide 1</h1>
 <p>Aqui va la info de 1</p>
 <p>asd</p>
-<p>+++</p>
+<hr>
 <h1 id="slide-2">Slide 2</h1>
 <p>Aqui va la info de 2</p>
 <p>asd</p>
