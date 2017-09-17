@@ -1,6 +1,7 @@
 <hr>
 <p>Slide 1<br>
-Aqui va la info de 1</p>
+Aqui va la info de 1<br>
+\[\int f(x) dx\]</p>
 <p>asd</p>
 <hr>
 <p>Slide 2<br>
