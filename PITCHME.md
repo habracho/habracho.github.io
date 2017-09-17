@@ -1,10 +1,11 @@
 ---
 
-Slide 1
+# Slide 1
 Aqui va la info de 1
 $$\int f(x) dx$$
+(No acepta LaTeX)
 
-asd
+> asd
 
 ---
 
