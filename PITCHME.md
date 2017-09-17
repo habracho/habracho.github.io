@@ -2,7 +2,12 @@
 <p>Slide 1<br>
 Aqui va la info de 1<br>
 \[\int f(x) dx\]</p>
-<h2 id="asd">asd</h2>
+<p>asd</p>
+<hr>
+<p>dsadsa</p>
+<p>+++</p>
+<p>dsads</p>
+<hr>
 <p>Slide 2<br>
 Aqui va la info de 2</p>
 <p>asd</p>
