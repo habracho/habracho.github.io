@@ -1,7 +1,7 @@
 ---
 
-### Introducción a la teoría combinatoria
-#### Aqui va la info de 1
+**Introducción a la teoría combinatoria**
+*Aqui va la info de 1*
 
 $$ \int f(x) dx $$
 
